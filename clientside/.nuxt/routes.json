@@ -1,0 +1,16 @@
+[
+  {
+    "name": "manager",
+    "path": "/manager",
+    "component": "D:\\\\www\\\\test\\\\Music-app-nuxtjs\\\\clientside\\\\musicapp\\\\pages\\\\manager\\\\index.vue",
+    "chunkName": "pages/manager/index",
+    "_name": "_e230e4f4"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\www\\\\test\\\\Music-app-nuxtjs\\\\clientside\\\\musicapp\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_45beb83e"
+  }
+]
